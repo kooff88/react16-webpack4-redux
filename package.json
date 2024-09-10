@@ -49,7 +49,7 @@
     "moment": "^2.25.3",
     "ogl": "0.0.60",
     "omit.js": "^2.0.2",
-    "path-to-regexp": "2.4.0",
+    "path-to-regexp": "8.0.0",
     "qs": "^6.9.0",
     "react": "^16.8.6",
     "react-csv": "^2.0.3",
